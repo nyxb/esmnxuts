@@ -1,17 +1,16 @@
 {
   "name": "esmnxuts",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": " 🛠️ Missing ESM utils for Node.js! Fill the gap with ease.",
   "author": "Dennis Ollhoff <contact@nyxb.xyz>",
   "license": "MIT",
   "hompage": "https://💻nyxb.ws",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nyxlabs/CodeBoost.git",
-    "directory": "packages/esmnxuts"
+    "url": "git+https://github.com/nyxlabs/esmnxuts.git"
   },
   "bugs": {
-    "url": "https://github.com/nyxlabs/CodeBoost/issues"
+    "url": "https://github.com/nyxlabs/esmnxuts/issues"
   },
   "sideEffects": false,
   "type": "module",
