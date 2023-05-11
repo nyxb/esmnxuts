@@ -7,10 +7,10 @@
   "hompage": "https://💻nyxb.ws",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nyxlabs/esmnxuts.git"
+    "url": "git+https://github.com/nyxblabs/esmnxuts.git"
   },
   "bugs": {
-    "url": "https://github.com/nyxlabs/esmnxuts/issues"
+    "url": "https://github.com/nyxblabs/esmnxuts/issues"
   },
   "sideEffects": false,
   "type": "module",
